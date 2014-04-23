@@ -23,20 +23,20 @@ playframework 2.2.1
 **tondeuseTv** 
 $play run
 
-**Go to** [http://localhost:8888][1]
+**Go to** http://localhost:8888
 
 ###Test datas
 
 **IN**
-5 5
-1 2 N
-GAGAGAGAA
-3 3 E
-AADAADADDA
+
+    5 5 
+    1 2 N 
+    GAGAGAGAA 
+    3 3 E 
+    AADAADADDA
 
 **OUT**
-1 3 N
-5 1 E
 
+    1 3 N
+    5 1 E
 
-  [1]: http://localhost:8888
